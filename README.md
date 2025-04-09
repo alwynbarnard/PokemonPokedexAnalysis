@@ -2,7 +2,7 @@
 
 Tools Used: Python · SQL Server · Power BI · DAX
 
-This project explores and analyzes a comprehensive dataset of Pokémon to uncover insights related to type distribution, base stats, evolution patterns, and battle potential.
+This project explores and analyzes a comprehensive dataset of Pokémon to uncover insights related to type distribution, base stats, evolution patterns, and battle potential. A PDF Extract of this PowerBI report can be found in this repository
 
 - Data Preparation: Used Python (Pandas, NumPy) to clean and transform the raw dataset. SQL Server was used to store and manage the data, enabling efficient querying and normalization of Pokémon attributes.
 - Data Modeling: Designed relational tables in SQL Server to support evolution chains, types, and stat metrics. Created views and complex SQL queries to support analytical use cases.
